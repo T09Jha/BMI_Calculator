@@ -14,10 +14,21 @@ This is a Body-Mass-Index (BMI) Calculator made with Python that includes Graphi
 - Categorises the BMI into varies categories.
 - It divides into four categories: Underweight, Normally Weighted, Over Weight, Obese.
 
-# FUNCTIONS AND 
+# FUNCTIONS AND GUI ITEMS 
+
+- calculate_bmi
+- 'Enter your weight (kg)' label
+- weight_entry
+- 'Enter your height (cm)' label
+- height_entry
+- calculate_button
+- result_label
+- BODY-MASS-INDEX CALCULATOR Window
+
+# EXPLAINATION
+
 It takes user's weight in kilograms and height in centimeters as input and calculates the BMI Of the User.
 After which it displays whether the user falls in UnderWeight, Normal, OverWeight or Obese Category.
-This is a Body-Mass-Index (BMI) Calculator made with Python that includes Graphical User Interface. 
 It takes user's weight in kilograms and height in centimeters as input and calculates the BMI Of the User.
 After which it displays whether the user falls in UnderWeight, Normal, OverWeight or Obese Category.
 After taking the input bmi is calculated by a simple formula of height divided by weight square.
