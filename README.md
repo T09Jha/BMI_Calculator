@@ -39,4 +39,4 @@ A Graphical User Interface is created using Tkinter which is imported.
 In the pop up display page titled BODY-MASS-INDEX CALCULATOR, contains a title created with root and title.
 Then two label is created which asks the user for height and weight inputs created using height_label and weight_label.
 A calculate button is created which on being pressed by the user will start the process of calculation of BMI.
-THe result label displays the Output, which includes the BMI that is calculated as well as the category that the person falls in; overweight, underweight, normal of obese.
+The result label displays the Output, which includes the BMI that is calculated as well as the category that the person falls in; overweight, underweight, normal of obese.
