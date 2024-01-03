@@ -1,4 +1,3 @@
-# Oasis_infobyte_taskno_2
 # BODY MASS INDEX CALCULATOR
 
 This is a Body-Mass-Index (BMI) Calculator made with Python that includes Graphical User Interface. 
